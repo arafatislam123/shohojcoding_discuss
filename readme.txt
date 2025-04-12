@@ -1,4 +1,22 @@
 problem:https://leetcode.com/problems/roman-to-integer/description/
+ whats the problem in testcase
+ Wrong Answer
+2047 / 3999 testcases passed
+
+Editorial
+Input
+s =
+"MCMXCIV"
+
+Use Testcase
+Output
+2216
+Expected
+1994
+
+
+
+
 solotion:
 class Solution {
 public:
